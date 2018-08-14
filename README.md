@@ -1,4 +1,4 @@
-# Sinatra From Scratch
+gem inst# Sinatra From Scratch
 
 ## Overview
 
